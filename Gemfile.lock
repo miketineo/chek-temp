@@ -1,0 +1,14 @@
+GEM
+  specs:
+    rack (1.4.7)
+    rack-app (5.11.1)
+      rack
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack-app
+
+BUNDLED WITH
+   1.14.3
