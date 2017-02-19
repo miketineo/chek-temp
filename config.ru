@@ -1,2 +1,2 @@
-require './checktemp.rb'
+require './app.rb'
 run App
